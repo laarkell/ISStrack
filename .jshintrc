@@ -1,0 +1,14 @@
+
+{
+	"esversion": 8,
+	"strict": "global",
+	"devel": true,
+	"browser": false,
+	"node": true,
+	"indent": 1,
+	"undef": true,
+	"unused": false,
+	"globals": {
+		"$": false
+	}
+}
